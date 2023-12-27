@@ -1,0 +1,14 @@
+div {
+    width: 200px;
+    height: 200px;
+    background-color: #7b63a1;
+}
+
+#one {
+    background-color: aqua;
+    border: 6px solid #172823;
+}
+
+h1  {
+    color: red;
+}
